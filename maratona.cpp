@@ -43,6 +43,6 @@ return 0;
 
 /*
  para fazer isso rodar - no cmd: 
- clang++-7 -pthread -std=c++17 -o exercicio2 exercicios/exercicio2.cpp main.cpp
+ clang++-7 -pthread -std=c++17 -o exercicio2 maratona.cpp main.cpp
  ./exercicio2
 */
