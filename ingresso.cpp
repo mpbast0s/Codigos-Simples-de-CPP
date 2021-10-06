@@ -37,6 +37,6 @@ return  0;
 
 /*
  para fazer isso rodar - no cmd: 
- clang++-7 -pthread -std=c++17 -o exercicio1 exercicios/exercicio1.cpp main.cpp
+ clang++-7 -pthread -std=c++17 -o exercicio1 ingresso.cpp main.cpp
  ./exercicio1
 */
