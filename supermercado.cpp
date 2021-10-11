@@ -64,6 +64,8 @@ int main()
 
 /* 
 OUTRA VERSÃO:
+  - ESSA VERSÃO NÃO TEM OS 20%
+
 #include <iostream>
 
 using namespace std;
@@ -85,7 +87,7 @@ float validare (float valor){
     }
 }
 
-int MAIN() 
+int main() 
 {
   int itens, quantidade;
   float valor, a, subtotal = 0;
