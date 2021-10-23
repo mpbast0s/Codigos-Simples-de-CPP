@@ -27,7 +27,7 @@ void valor_invalido(){
   cout << "Valor invalido" << endl;
 }
 
-int exercicio3() {
+int main() {
   int M, N, quantidade = 0;
   float valor = 0, soma = 0, a, b;  
   cout << "Digite a quantidade de pessoas: ";
