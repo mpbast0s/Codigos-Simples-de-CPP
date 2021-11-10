@@ -7,7 +7,7 @@ Em seguida, seu programa deve ler o tempo em segundos que um determinado corredo
 
 #include <iostream>
 using namespace std;
-int exercicio2 ()
+int main ()
 {
 int horas_r, minutos_r, segundos_r, recorde, tempo_s, diferenca;
 
